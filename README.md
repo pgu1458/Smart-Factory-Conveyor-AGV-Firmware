@@ -8,8 +8,7 @@
 <!-- ![demo](docs/demo.gif) -->
 
 
-<!-- 시연 영상 링크나 GIF를 여기에 -->
-<!-- [![demo](docs/thumb.png)](영상링크) -->
+시연영상 : 
 
 ---
 
@@ -193,4 +192,3 @@ VisiPick/
 
 
 
-<sub>이 README는 초안입니다. <code>TODO</code> 표시된 비전·백엔드·HMI 섹션은 각 담당자가 채워주세요.</sub>
