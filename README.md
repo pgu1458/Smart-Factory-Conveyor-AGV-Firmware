@@ -226,7 +226,8 @@ AGV의 실시간 상태(현재 노드, 미션, 다음 동작, RFID UID, 거리, 
 
 WPF HMI는 이 데이터를 받아 라인 위에 AGV 위치를 실시간으로 그립니다.
 
-<img width="723" height="304" alt="image" src="https://github.com/user-attachments/assets/4c9b45a3-dbca-4733-95eb-1e6c76afb93e" />
+<img width="724" height="305" alt="image" src="https://github.com/user-attachments/assets/6d0228b1-9835-4eb0-90a7-f6db26f10897" />
+
 
 
 ---
