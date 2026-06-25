@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/29124225/README.md)
-#  반도체 패키지 조립 라인 — 컨베이어·AGV 펌웨어
+#  실시간 영상을 분석한 제품 자동 정렬 및 분류 시스템 — 컨베이어·AGV 펌웨어
 
 > 비전 분류 라인의 **하드웨어/펌웨어 전 영역**을 담당한 ESP32 펌웨어 모음
 > 컨베이어·게이트·AGV 라인트레이싱·RFID 노드·자동 충전 복귀 + NC/NO 이중 비상정지
